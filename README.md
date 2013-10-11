@@ -11,7 +11,7 @@ This project is a C# port of the Java version that was a port of the Python impl
 Beware that this is a simple but **very slow** implementation and should be used for testing only.
 
 If you need a faster implementation of Ed25519, have a look at:  
-https://https//github.com/CodesInChaos/Chaos.NaCl
+https://github.com/CodesInChaos/Chaos.NaCl
 
 #### Usage Example
 
